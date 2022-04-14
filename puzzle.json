@@ -2,13 +2,13 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"1",
+      "link_redirect":"https://play.google.com/store/apps/details?id=",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "select_ads":"STARTAPP",
-      "interval":"",
+      "interval":"5",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
